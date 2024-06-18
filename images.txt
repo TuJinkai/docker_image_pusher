@@ -8,6 +8,5 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox
 ubuntu/squid:latest
 codercom/code-server
-centos:centos7.9.2009
 #支持指定架构
 --platform=linux/arm64 centos:centos7.9.2009
