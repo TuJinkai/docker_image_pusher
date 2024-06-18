@@ -9,5 +9,6 @@ langgenius/dify-sandbox
 ubuntu/squid:latest
 codercom/code-server
 atlas/centos7-atlasos
+nanquanyuhao/centos7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
