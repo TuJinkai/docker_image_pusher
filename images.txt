@@ -10,3 +10,4 @@ ubuntu/squid:latest
 codercom/code-server
 #支持指定架构
 --platform=linux/arm64 centos:centos7.9.2009
+--platform=linux/arm64 filebrowser/filebrowser:v2.30.0-s6
