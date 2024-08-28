@@ -1,12 +1,11 @@
 nginx
 #支持私库
-langgenius/dify-api
-langgenius/dify-web
-langgenius/dify-sandbox
+langgenius/dify-api:0.7.2
+langgenius/dify-web:0.7.2
+langgenius/dify-sandbox:0.2.6
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
-langgenius/dify-sandbox
 ubuntu/squid:latest
 codercom/code-server
 rustdesk/rustdesk-server
