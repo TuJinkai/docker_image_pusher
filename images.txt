@@ -1,4 +1,6 @@
 nginx
+justsong/one-api
+yidadaa/chatgpt-next-web
 #支持私库
 neilpang/acme.sh
 codercom/code-server
