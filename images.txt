@@ -1,4 +1,3 @@
-ghcr.io/open-webui/open-webui:main
+searxng/searxng:latest
 #支持指定架构
 --platform=linux/arm64 p3terx/aria2-pro
---platform=linux/arm64 filebrowser/filebrowser:v2.30.0-s6
