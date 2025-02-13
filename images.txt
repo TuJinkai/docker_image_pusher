@@ -1,4 +1,3 @@
-searxng/searxng:latest
-valkey/valkey:8-alpine
+langgenius/dify-sandbox:0.2.10
 #支持指定架构
 --platform=linux/arm64 p3terx/aria2-pro
