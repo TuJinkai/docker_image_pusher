@@ -1,5 +1,3 @@
-langgenius/dify-sandbox:0.2.10
-maxwell60701/cosmic-maplestory
-maxwell60701/mysql:8.0.23
+ghcr.io/beidoums/beidou-server-all:v1.8
 #支持指定架构
 --platform=linux/arm64 p3terx/aria2-pro
