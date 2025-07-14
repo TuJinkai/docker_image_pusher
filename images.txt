@@ -1,4 +1,3 @@
-
+calciumion/new-api:latest
 #支持指定架构
---platform=linux/arm64 calciumion/new-api:latest
 --platform=linux/arm64 mysql:8.2
