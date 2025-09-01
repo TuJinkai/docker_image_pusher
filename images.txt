@@ -1,2 +1,3 @@
+bestzwei/libretv:latest
 #支持指定架构
 --platform=linux/arm64 python:3.11-slim
