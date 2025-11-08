@@ -1,1 +1,2 @@
-xprobe/xinference:v1.11.0.post1-cu128
+rostislavdugin/postgresus:latest
+postgres:16.10
