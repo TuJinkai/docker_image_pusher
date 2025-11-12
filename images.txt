@@ -1,2 +1,1 @@
-rostislavdugin/postgresus:latest
-postgres:16.10
+gpustack/gpustack:v0.7-cuda12.8
