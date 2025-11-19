@@ -1,1 +1,1 @@
-makeplane/plane-live:latest
+makeplane/plane-proxy:latest
