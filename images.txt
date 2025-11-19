@@ -1,1 +1,6 @@
-makeplane/plane-proxy:latest
+makeplane/plane-frontend:v1.1.0
+makeplane/plane-space:v1.1.0
+makeplane/plane-admin:v1.1.0
+makeplane/plane-live:v1.1.0
+makeplane/plane-backend:v1.1.0
+makeplane/plane-proxy:v1.1.0
