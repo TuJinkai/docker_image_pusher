@@ -1,1 +1,1 @@
-rabbitmq:3.13.6-management-alpine
+ghcr.io/dayuanjiang/next-ai-draw-io:latest
