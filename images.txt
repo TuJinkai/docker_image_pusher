@@ -1,1 +1,1 @@
-ghcr.io/dayuanjiang/next-ai-draw-io:latest
+lightx2v/lightx2v:25111101-cu128
