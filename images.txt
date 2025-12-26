@@ -1,1 +1,1 @@
-lightx2v/lightx2v:25111101-cu128
+ostris/aitoolkit:0.7.13
