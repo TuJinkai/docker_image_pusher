@@ -1,1 +1,1 @@
-ostris/aitoolkit:0.7.13
+danielguerra/ubuntu-xrdp:22.04
