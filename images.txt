@@ -1,1 +1,1 @@
-danielguerra/ubuntu-xrdp:22.04
+scottyhardy/docker-remote-desktop:ubuntu-20.04
