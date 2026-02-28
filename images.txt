@@ -1,2 +1,2 @@
-ghcr.io/c4illin/convertx:latest
-
+--platform=linux/arm64 gpustack/gpustack:v2.1.0rc1
+--platform=linux/arm64 gpustack/runner:cann8.5-910b-vllm0.14.1
