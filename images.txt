@@ -1,2 +1,4 @@
---platform=linux/arm64 gpustack/gpustack:v2.1.0rc1
---platform=linux/arm64 gpustack/runner:cann8.5-910b-vllm0.14.1
+apache/apisix:3.15.0-debian
+bitnamilegacy/etcd:3.5.11
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
