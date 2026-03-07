@@ -1,4 +1,2 @@
-apache/apisix:3.15.0-debian
-bitnamilegacy/etcd:3.5.11
-prom/prometheus:v2.25.0
-grafana/grafana:7.3.7
+apache/shenyu-bootstrap:2.7.0.3
+apache/shenyu-admin:2.7.0.3
