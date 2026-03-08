@@ -1,2 +1,1 @@
-apache/shenyu-bootstrap:2.7.0.3
-apache/shenyu-admin:2.7.0.3
+vllm/vllm-openai:v0.17.0
