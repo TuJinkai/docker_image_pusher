@@ -1,1 +1,1 @@
-justlikemaki/openclaw-docker-cn-im:2026.3.7
+vllm/vllm-openai:deepseekv4-cu130
