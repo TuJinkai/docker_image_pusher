@@ -1,1 +1,2 @@
-vllm/vllm-openai:deepseekv4-cu130
+vllm/vllm-openai:v0.20.2
+vllm/vllm-openai:v0.20.2-cu129
