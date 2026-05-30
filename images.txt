@@ -1,1 +1,1 @@
-gotenberg/gotenberg:8
+vllm/vllm-openai:v0.22.0
