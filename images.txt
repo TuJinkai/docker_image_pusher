@@ -1,1 +1,1 @@
-vllm-openai:minimax-m3
+vllm/vllm-openai:minimax-m3
